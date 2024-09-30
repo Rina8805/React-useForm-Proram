@@ -1,0 +1,22 @@
+.container{
+    border: 1px royalblue groove;
+    padding: 20px;
+    background-color: honeydew;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.form-field{
+    height: 40px;
+    width: 300px;
+    font-size: larger;
+}
+.submit{
+    height: 42px;
+    font-size: larger;
+}
+.error{
+    color: red;
+}
